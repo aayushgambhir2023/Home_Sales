@@ -1,4 +1,4 @@
-***Module 22 Challenge***
+Module 22 Challenge
 Here's an overview of the tasks completed in the Module 22 Challenge:
 
 1. **Importing Necessary Libraries**: Imported the required PySpark SQL functions for the assignment.
